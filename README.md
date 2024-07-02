@@ -6,6 +6,3 @@
 - 📊 Meus estudos são focados em data science e machine learning
 - 🧑 Alguns de meus hobbies são que toco violino e amo treinar
 - 📨 leandrojerse@gmail.com
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiLeandroJerseanuraghazra&show_icons=true&theme=dark))](https://github.com/anuraghazra/github-readme-stats)

@@ -9,7 +9,7 @@
 
 - 🦇 Faço ciências da computação na UFU e sou membro da equipe LAMAU
 - 📊 Meus estudos são focados em data science e machine learning
-- 🧑 Alguns de meus hobbies são que toco violino e amo treinar
+- 🧑 Alguns de meus hobbies são tocar violino e treinar
 
 
     <a href="https://www.linkedin.com/in/leandro-marques-b377a6271/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
